@@ -1,0 +1,17 @@
+{
+  "name": "consola-interactiva",
+  "version": "0.0.1",
+  "description": "Realizar una pequeña consola interactiva que permita al usuario ingresar un número y mostrar en consola si es par o impar. El programa debe seguir ejecutándose hasta que el usuario ingrese la palabra “exit”.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Eric Alberto Rangel Carmona",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.6",
+    "uuid": "^9.0.1"
+  }
+}
